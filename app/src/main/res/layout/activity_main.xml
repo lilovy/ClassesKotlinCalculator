@@ -19,12 +19,13 @@
         android:layout_width="0dp"
         android:height="0dp"
         style="@style/cell_style"
-        android:text="DEL"
+        android:text="Del"
         />
     <TextView
         android:layout_width="0dp"
         android:height="0dp"
         style="@style/cell_style"
+        android:text="AC"
         />
     <TextView
         android:layout_width="0dp"
@@ -37,7 +38,7 @@
         android:layout_width="0dp"
         android:height="0dp"
         style="@style/cell_style"
-        android:text="*"
+        android:text="×"
         />
     <TextView
         android:layout_width="0dp"
